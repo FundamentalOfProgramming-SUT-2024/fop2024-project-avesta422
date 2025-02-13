@@ -1,4 +1,4 @@
-#include <ncurses.h>
+#include <ncurses.h> //403171095 شماره دانشجویی 
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
